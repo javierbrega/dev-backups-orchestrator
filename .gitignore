@@ -1,0 +1,12 @@
+# Entornos virtuales
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Logs y temporales
+logs/
+*.zip
+*.tar.gz
